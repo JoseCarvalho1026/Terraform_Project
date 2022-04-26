@@ -1,1 +1,2 @@
-# grsi_tf
+# GRSI_TF
+### GRSI Terraform Project
